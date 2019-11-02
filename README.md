@@ -1,6 +1,6 @@
 # Sparkify Project
 
-This repository contains the results of the Capstone Sparkify Project from my Data Science Nanodegree. It gives the reviewer access to my code. For further information look at MEDIUM BLOG POST.
+This repository contains the results of the Capstone Sparkify Project from my Data Science Nanodegree. It gives the reviewer access to my code. For further information look at https://medium.com/@nicole.a/big-data-analytics-with-spark.
 
 
 ### Overview
