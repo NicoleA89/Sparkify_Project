@@ -24,9 +24,9 @@ The Repository contains this README.md and a folder called Applications, which c
 ### Project Results
 I copared the results of three different Machine Learning techniques: Logistic Regression and Gradient Boosted Trees Classifier and the Random Forest Classifier. The f1-scores are as followed:
 
-- Logistic Regression Model:
-- Gradient Boosted Trees Classifier: 
-- Random Forest Classifier:
+- Logistic Regression Model: 77,7 %
+- Gradient Boosted Trees Classifier: 99,6 %
+- Random Forest Classifier: 92,6 %
 
 ### Project Improvements
 Improvements to the results might occur by applying further approaches such as:
