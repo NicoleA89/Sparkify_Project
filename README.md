@@ -41,3 +41,6 @@ The following software and packages are necessary to run the notebook:
 - Seaborn
 - numpy
 - pandas
+
+### Acknowledgements
+I thank Udacity for the dataset and the advice and review.
