@@ -37,7 +37,11 @@ Improvements to the results might occur by applying further approaches such as:
 - Use the full dataset with a bigger amount of data
 
 ### Packages
-The following packages are necessary to run the notebook:
-- pyspark
+The following software and packages are necessary to run the notebook:
+- Python
+- Spark
+- Pyspark
+- Matplotlib
+- Seaborn
 - numpy
 - pandas
