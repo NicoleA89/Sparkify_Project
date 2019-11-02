@@ -18,8 +18,8 @@ The used data is provided in a JSON format. It won´t be included in the Reposit
 ### Project Files
 The Repository contains this README.md and a folder called Applications, which contains:
 
-- Jupyter Notebook called Sparkify.ipynb (contains analysis, including cleaning, feature engineering, modeling and improvements)
-- html version of the Notebook called Sparkify.html
+- Sparkify.ipynb - Jupyter Notebook that contains analysis, exploring and cleaning data, feature engineering, modeling and improvements
+- Sparkify.html - html version of the Notebook
 
 ### Project Results
 I copared the results of three different Machine Learning techniques: Logistic Regression and Gradient Boosted Trees Classifier and the Random Forest Classifier. The f1-scores are as followed:
